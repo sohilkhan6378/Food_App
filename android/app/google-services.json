@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924063783508",
+    "project_id": "food-app-fdad1",
+    "storage_bucket": "food-app-fdad1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924063783508:android:5f0b39a7dd8fbc9513abc1",
+        "android_client_info": {
+          "package_name": "com.gamer.food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtGJ8jQ4LaFv1QnNHhtlDA-08Cg46SFRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
